@@ -1,0 +1,8 @@
+.root {
+	margin: 5px;
+}
+
+.root input:valid:focus + fieldset {
+	border-left-width: 6px;
+	padding: 4px;
+}
